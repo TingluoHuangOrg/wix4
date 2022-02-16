@@ -1,5 +1,7 @@
 {
   "version": "1.0",
   "components": [
+      "Microsoft.Net.Component.4.7.2.TargetingPack",
+      "Microsoft.VisualStudio.Component.VC.v141.x86.x64"
   ]
 }
