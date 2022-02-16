@@ -1,6 +1,8 @@
 name: Build WiX Toolset v4
 
 on:
+  workflow_dispatch:
+    
   push:
     branches:
       - master
